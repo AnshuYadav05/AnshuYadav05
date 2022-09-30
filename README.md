@@ -1,4 +1,4 @@
-![logo](https://github.com/AnshuYadav05/AnshuYadav05/blob/main/Web%20Developer.png)
+![logo](https://github.com/AnshuYadav05/AnshuYadav05/blob/main/Github%20backgroundd.jpg)
 <h1 align="center">Hi 👋, I'm Anshu Yadav</h1>
 <h3 align="center">A Passionate Frontend Developer From India</h3>
 
