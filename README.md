@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anshu Yadav</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A Passionate Frontend Developer From India</h3>
+
+<img align="right" alt="coding" width="480" height="400" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anshuyadav05&label=Profile%20views&color=0e75b6&style=flat" alt="anshuyadav05" /> </p>
 
@@ -9,7 +11,7 @@
 
 - 📫 How to reach me **anshuyadav8615@gmail.com**
 
-- ⚡ Fun fact **I am Funny😊**f
+- ⚡ Fun fact **I m Funny😊**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
