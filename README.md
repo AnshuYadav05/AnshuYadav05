@@ -8,14 +8,18 @@
 
 <h3 align="left">About Me:</h3>
 <h4 align="left">Electronics & Communication Engineer:</h4>
-Age : 22          Freelance: Available
-
-- 💬 Ask me about... **Web Development**
+Age : 22
+Gender : Male
+Mob No: 8529455662 
+Freelance: Available
+Languages : Hindi/English
+Email: anshuyadav8615@gmail.com
+Work : Website Developer/Hosting
 
 - 📫 How to reach me :
 
      Mob No: 8529455662 <br>
-     Email: anshuyadav8615@gmail.com
+    
 
 
 - ⚡ Fun fact.. I'm  also Crazy 😊 
