@@ -15,7 +15,7 @@ Freelance: Available <br><br>
 Languages : Hindi / English &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp 
 Work : Web. Development  <br><br>
 Email: anshuyadav8615@gmail.com&nbsp &nbsp &nbsp &nbsp
-Country : India <br>
+Country : India <br><br>
 
 - ⚡ Fun fact.. I'm  also Crazy 😊 
 
