@@ -9,7 +9,6 @@
 <h3 align="left">About Me:</h3>
 <h4 align="left">Electronics & Communication Engineer:</h4>
 Age : 22          Freelance: Available
-- 🌱 I’m currently learning... **React JS**
 
 - 💬 Ask me about... **Web Development**
 
