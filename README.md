@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anshuyadav05&label=Profile%20views&color=0e75b6&style=flat" alt="anshuyadav05" /> </p>
 
-<h1 align="left">About Me:</h1>
+<h1 align="left" font-weight="bold">About Me:</h1>
 <h2 align="left">MY NAME IS ANSHU YADAV</h2>
 <h3 align="left">Electronics & Communication Engineer:</h2>
 - Age : 22 &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp 
@@ -14,7 +14,7 @@
 - Mob No: 8529455662 &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp 
 - Freelance: Available <br><br>
 - Languages : Hindi / English &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp 
-- Work : Web. Development  <br><br>
+- Work: Web. Development  <br><br>
 - Email: anshuyadav8615@gmail.com&nbsp &nbsp &nbsp &nbsp
 - Country : India <br><br><br><br><br>
 
