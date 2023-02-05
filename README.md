@@ -17,8 +17,6 @@
 - Email: anshuyadav8615@gmail.com&nbsp &nbsp &nbsp &nbsp
 - Country : India <br><br>
 
-- Fun fact: I'm also Writer 😊 
-
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anshuyadav05&show_icons=true&locale=en" alt="anshuyadav05" /></p> -->
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anshuyadav05&" alt="anshuyadav05" /></p>
