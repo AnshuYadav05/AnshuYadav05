@@ -1,6 +1,6 @@
 ![logo](https://github.com/AnshuYadav05/AnshuYadav05/blob/main/Github%20backgroundd.jpg)
 <h1 align="center">Hi 👋, I'm Anshu Yadav</h1>
-<h3 align="center">A Passionate Frontend Developer From India</h3>
+<h3 align="center">A Passionate Web. Developer From India</h3>
 
 <img align="right" alt="coding" width="400" height="370" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
