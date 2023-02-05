@@ -16,11 +16,6 @@ Languages : Hindi / English &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbs
 Email: anshuyadav8615@gmail.com <br><br>
 Work : Web. Development  &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp
 Country : India <br>
-- 📫 How to reach me :
-
-     Mob No: 8529455662
-    
-
 
 - ⚡ Fun fact.. I'm  also Crazy 😊 
 
