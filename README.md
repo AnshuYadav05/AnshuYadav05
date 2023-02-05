@@ -9,11 +9,11 @@
 <h3 align="left">About Me:</h3>
 <h4 align="left">Electronics & Communication Engineer:</h4>
 Age : 22 &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp 
-Gender : Male <br> 
+Gender : Male <br><br>
 Mob No : 8529455662 &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp
-Freelance: Available <br>
+Freelance: Available <br><br>
 Languages : Hindi / English &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp 
-Email: anshuyadav8615@gmail.com <br>
+Email: anshuyadav8615@gmail.com <br><br>
 Work : Web. Development  &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp
 Country : India <br>
 - 📫 How to reach me :
