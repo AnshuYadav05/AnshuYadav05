@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Anshu Yadav</h1>
 <h3 align="center">A Passionate Web. Developer From India</h3>
 
-<img align="right" alt="coding" width="320" height="350" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="coding" width="320" height="370" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anshuyadav05&label=Profile%20views&color=0e75b6&style=flat" alt="anshuyadav05" /> </p>
 
@@ -16,7 +16,7 @@
 - Languages : Hindi / English &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp 
 - Work: Web. Development  <br><br>
 - Email: anshuyadav8615@gmail.com&nbsp &nbsp &nbsp &nbsp
-- Country : India <br><br><br><br><br>
+- Country : India <br><br><br><br><br><br>
 
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anshuyadav05&show_icons=true&locale=en" alt="anshuyadav05" /></p> -->
 
