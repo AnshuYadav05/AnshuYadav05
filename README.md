@@ -7,7 +7,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anshuyadav05&label=Profile%20views&color=0e75b6&style=flat" alt="anshuyadav05" /> </p>
 
 <h1 align="left">About Me:</h1>
-<h1 align="left">MY NAME IS Anshu YADAV</h1>
+<h2 align="left">MY NAME IS Anshu YADAV</h2>
 <h3 align="left">Electronics & Communication Engineer:</h2>
 - Age : 22 &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp 
 - Gender : Male <br><br>
