@@ -8,13 +8,13 @@
 
 <h3 align="left">About Me:</h3>
 <h4 align="left">Electronics & Communication Engineer:</h4>
-Age : 22
-Gender : Male
-Mob No: 8529455662 
-Freelance: Available
-Languages : Hindi/English
-Email: anshuyadav8615@gmail.com
-Work : Website Developer/Hosting
+Age : 22 <br>
+Gender : Male <br>
+Mob No: 8529455662 <br>
+Freelance: Available <br>
+Languages : Hindi/English <br>
+Email: anshuyadav8615@gmail.com <br>
+Work : Website Developer/Hosting <br>
 
 - 📫 How to reach me :
 
