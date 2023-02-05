@@ -17,7 +17,7 @@
 - Email: anshuyadav8615@gmail.com&nbsp &nbsp &nbsp &nbsp
 - Country : India <br><br>
 
-- ⚡ Fun fact.. I'm  also Crazy 😊 
+- ⚡ Fun fact.. I'm also Writer 😊 
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
