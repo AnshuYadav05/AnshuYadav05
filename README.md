@@ -16,7 +16,7 @@
      Email: anshuyadav8615@gmail.com
 
 
-- ⚡ Fun fact.. I'm  also Writer 😊 
+- ⚡ Fun fact.. I'm  also Crazy 😊 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
